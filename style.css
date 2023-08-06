@@ -84,13 +84,13 @@ font-family: 'Lobster';
 
 /* Position the first paper clip */
 .paper-clip:nth-of-type(1) {
-    top: 10px; /* Adjust the vertical position */
+    top: 90px; /* Adjust the vertical position */
     left: 50px; /* Adjust the horizontal position */
 }
 
 /* Position the second paper clip */
 .paper-clip:nth-of-type(2) {
-    top: 60px; /* Adjust the vertical position */
+    top: 120px; /* Adjust the vertical position */
     left: 120px; /* Adjust the horizontal position */
 }
 
