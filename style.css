@@ -79,6 +79,7 @@ font-family: 'Lobster';
     position: absolute;
     width: 30px; /* Adjust the width as per your image size */
     z-index: 1; /* Make sure the paper clips appear above other elements */
+    height: 20px;
 }
 
 /* Position the first paper clip */
